@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - zytad_sdk (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - zytad_sdk (from `.symlinks/plugins/zytad_sdk/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  zytad_sdk:
+    :path: ".symlinks/plugins/zytad_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  zytad_sdk: 0e213c608a5832250d04885d565773becf4b5bcc
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.0
